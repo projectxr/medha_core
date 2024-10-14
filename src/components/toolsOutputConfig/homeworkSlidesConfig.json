@@ -1,0 +1,85 @@
+{
+  "slides": [
+    {
+      "slideNumber": 1,
+      "heading": "Title",
+      "sections": [
+        {
+          "label": "Topic",
+          "type": "input",
+          "value": "Enter your text here"
+        }
+      ]
+    },
+    {
+      "slideNumber": 2,
+      "heading": "Explanation",
+      "sections": [
+        {
+          "label": "Topic",
+          "type": "input",
+          "value": "Enter your text here"
+        },
+        {
+          "label": "Options",
+          "type": "input",
+          "value": "Enter your text here"
+        }
+      ]
+    },
+    {
+      "slideNumber": 3,
+      "heading": "Key Points",
+      "sections": [
+        {
+          "label": "Main Points",
+          "type": "input",
+          "value": "Enter main points here"
+        }
+      ]
+    },
+    {
+      "slideNumber": 4,
+      "heading": "Examples",
+      "sections": [
+        {
+          "label": "Example 1",
+          "type": "input",
+          "value": "Enter first example here"
+        },
+        {
+          "label": "Example 2",
+          "type": "input",
+          "value": "Enter second example here"
+        }
+      ]
+    },
+    {
+      "slideNumber": 5,
+      "heading": "Practice Questions",
+      "sections": [
+        {
+          "label": "Questions",
+          "type": "input",
+          "value": "Enter practice questions here"
+        },
+        {
+          "label": "Solutions",
+          "type": "input",
+          "value": "Enter solutions here"
+        }
+      ]
+    },
+    {
+      "slideNumber": 6,
+      "heading": "Summary",
+      "sections": [
+        {
+          "label": "Key Takeaways",
+          "type": "input",
+          "value": "Enter key takeaways here"
+        }
+      ]
+    }
+  ]
+}

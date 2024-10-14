@@ -1,0 +1,68 @@
+{
+  "homework": {
+    "steps": [
+      {
+        "id": 1,
+        "label": "Topic",
+        "value": "topic"
+      },
+      {
+        "id": 2,
+        "label": "Blooms",
+        "value": "blooms"
+      },
+      {
+        "id": 3,
+        "label": "Lesson",
+        "value": "lesson"
+      }
+    ]
+  },
+  "ppt": {
+    "steps": [
+      {
+        "id": 1,
+        "label": "Topic",
+        "value": "Topic"
+      },
+      {
+        "id": 2,
+        "label": "Outline",
+        "value": "Outline"
+      },
+      {
+        "id": 3,
+        "label": "PPT",
+        "value": "PPT"
+      }
+    ]
+  },
+  "lesson": {
+    "steps": [
+      {
+        "id": 1,
+        "label": "Topic",
+        "value": "Topic"
+      },
+      {
+        "id": 2,
+        "label": "Download",
+        "value": "Download"
+      }
+    ]
+  },
+  "yt": {
+    "steps": [
+      {
+        "id": 1,
+        "label": "Link",
+        "value": "Link"
+      },
+      {
+        "id": 2,
+        "label": "Summary",
+        "value": "Summary"
+      }
+    ]
+  }
+}
